@@ -13,7 +13,6 @@ public class ArrPermutate {
 		if(index >= arr.length - 1){ 
 	    	//If we are at the last element - nothing left to permute
 	        System.out.println(Arrays.toString(arr));
-	        
 	        return;
 	    }
 
