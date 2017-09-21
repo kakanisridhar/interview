@@ -4,7 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class RepeatCount {
-
+	
+	
+	//Count continuously repeated characters and populate 
+	//map with counts for chars repeated more than once  
 	public static Map<Character, Integer> countRepeatedChars(final String in) {
 
 		String val = in;
